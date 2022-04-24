@@ -1,7 +1,23 @@
-# input
+# Task
+"""
+Given an integer n, perform the following conditional actions:
+    If is odd, print Weird
+    If is even and in the inclusive range of to, print Not Weird
+    If is even and in the inclusive range of to, print Weird
+    If is even and greater than , print Not Weird
+"""
+
+# Input
+"""
+A single line containing a positive integer, n.
+"""
 n = 18
 
-# solution
+# Output
+"""
+Print Weird if the number is weird. Otherwise, print Not Weird.
+"""
+
 if(n % 2 != 0):
     print("Weird")
 else:
