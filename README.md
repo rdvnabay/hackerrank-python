@@ -6,3 +6,8 @@
 - [x] [Loops](https://github.com/rdvnabay/hackerrank-python/blob/main/Introduction/loops.py) 
 - [x] [Write a function](https://github.com/rdvnabay/hackerrank-python/blob/main/Introduction/write_a_function.py)
 - [x] [Print Function](https://github.com/rdvnabay/hackerrank-python/blob/main/Introduction/print_function.py)
+
+## Basic Data Types
+
+- [] List Comprehensions
+- [x] [Find the Runner-Up Score](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/find_the_runner-up_score.py)
