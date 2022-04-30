@@ -9,5 +9,5 @@
 
 ## Basic Data Types
 
-- [ ] List Comprehensions
+- [x] [List Comprehensions](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/list_comprehensions.py)
 - [x] [Find the Runner-Up Score](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/find_the_runner-up_score.py)
