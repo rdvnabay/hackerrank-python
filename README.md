@@ -13,3 +13,5 @@
 - [x] [Find the Runner-Up Score](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/find_the_runner-up_score.py)
 - [x] [Nested Lists](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/nested_lists.py)
 - [x] [Finding the percentage](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/finding_the_percentage.py)
+- [ ] Lists
+- [x] [Tuples](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/tuples.py)
