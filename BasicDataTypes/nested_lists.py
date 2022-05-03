@@ -28,18 +28,16 @@ If there are multiple students, order their names alphabetically and print each 
 #     score = int(input())
 #     students.append([name,score])
 
-students.sort(key=lambda x: x[1])
+smallestGrade = min(students, key=lambda student: student[1])[1]
 
-smallestGrade=students[0][1]
-secondLowestGrade=0
-
+secondLowestGrade = 0
 for student in students:
-    if student[1]>smallestGrade:
-        secondLowestGrade =student[1]
+    if student[1] > smallestGrade:
+        secondLowestGrade = student[1]
         break
-    
+
 students = list(filter(lambda x: x[1] == secondLowestGrade, students))
 students.sort(key=lambda x: x[0])
 
 for student in students:
-        print(student[0])
+    print(student[0])
