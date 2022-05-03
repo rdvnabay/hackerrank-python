@@ -15,3 +15,7 @@
 - [x] [Finding the percentage](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/finding_the_percentage.py)
 - [ ] Lists
 - [x] [Tuples](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/tuples.py)
+
+## Strings
+
+- [x] [Swap Case](https://github.com/rdvnabay/hackerrank-python/blob/main/BasicDataTypes/swap_case.py)
