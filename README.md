@@ -21,3 +21,4 @@
 - [x] [Swap Case](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/swap_case.py)
 - [x] [String Split and Join](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/string_split_and_join.py)
 - [x] [What's Your Name?](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/whats_your_name.py)
+- [x] [Mutations](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/mutations.py)
