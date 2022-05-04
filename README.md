@@ -24,3 +24,5 @@
 - [x] [Mutations](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/mutations.py)
 - [ ] Find a string
 - [x] [String Validators](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/string_validators.py)
+- [ ] Text Alignment
+- [x] [Text Wrap](https://github.com/rdvnabay/hackerrank-python/blob/main/Strings/text_wrap.py)
