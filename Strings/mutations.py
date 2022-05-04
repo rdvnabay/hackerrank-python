@@ -2,6 +2,7 @@
 """
 Read a given string, change the character at a given index and then print the modified string. 
 """
+
 # Function Description
 """
 mutate_string has the following parameters:
